@@ -1,4 +1,4 @@
-# Document-sourcing-portfolio# Document Sourcing Portfolio
+# Document Sourcing Portfolio
 
 I'm building a career at the intersection of detail-oriented research, public-record retrieval, and AI data annotation. This repository demonstrates my ability to source, verify, and document publicly available datasets with clear metadata — the core skill behind roles that require document sourcing, compliance review, and data labeling.
 
