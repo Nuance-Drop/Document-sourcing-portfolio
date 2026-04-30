@@ -1,0 +1,5 @@
+Dataset Name,Source Platform,License,URL,Date Sourced,Notes
+Crop Recommendation Dataset,Kaggle,CC0 Public Domain,https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset,2026-04-28,Agriculture dataset suitable for AI training
+Scaling Data-Constrained Language Models,arXiv,CC BY 4.0,https://arxiv.org/abs/2305.16264,2026-04-28,RLHF and data quality research
+Beyond Meat 10-K Filing (2025),SEC EDGAR,Public Domain,https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001579298,2026-04-28,Corporate filing retrieval example
+Nonprofit IRS Filings,ProPublica,Public Domain,https://projects.propublica.org/nonprofits/,2026-04-28,Grant research and nonprofit verification
